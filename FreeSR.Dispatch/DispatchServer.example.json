@@ -1,0 +1,11 @@
+{
+  "Network": {
+    "Host": "0.0.0.0",
+    "Port": 8888
+  },
+  "Region": {
+    "Name": "FreeSR",
+    "EnvType": "2",
+    "DispatchUrl": "http://dispatch.starrails.com/query_gateway"
+  }
+}

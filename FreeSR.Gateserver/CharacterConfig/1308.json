@@ -1,0 +1,188 @@
+{
+  "Id": 1308,
+  "Level": 80,
+  "Promotion": 6,
+  "Rank": 2,
+  "Equipment": {
+    "Id": 23024,
+    "Level": 80,
+    "Promotion": 6,
+    "Rank": 1
+  },
+  "RelicList": [
+    {
+      "Id": 61171,
+      "SetId": 117,
+      "Type": 1,
+      "Level": 15,
+      "MainAffixId": 1,
+      "SubAffixList": [
+        {
+          "SubAffixId": 8,
+          "Cnt": 6,
+          "Step": 10
+        },
+        {
+          "SubAffixId": 9,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 5,
+          "Cnt": 1,
+          "Step": 2
+        },
+        {
+          "SubAffixId": 4,
+          "Cnt": 1,
+          "Step": 0
+        }
+      ]
+    },
+    {
+      "Id": 61172,
+      "SetId": 117,
+      "Type": 2,
+      "Level": 15,
+      "MainAffixId": 1,
+      "SubAffixList": [
+        {
+          "SubAffixId": 8,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 9,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 5,
+          "Cnt": 1,
+          "Step": 2
+        },
+        {
+          "SubAffixId": 4,
+          "Cnt": 1,
+          "Step": 0
+        }
+      ]
+    },
+    {
+      "Id": 61173,
+      "SetId": 117,
+      "Type": 3,
+      "Level": 15,
+      "MainAffixId": 4,
+      "SubAffixList": [
+        {
+          "SubAffixId": 9,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 5,
+          "Cnt": 1,
+          "Step": 2
+        },
+        {
+          "SubAffixId": 7,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 4,
+          "Cnt": 1,
+          "Step": 0
+        }
+      ]
+    },
+    {
+      "Id": 61174,
+      "SetId": 117,
+      "Type": 4,
+      "Level": 15,
+      "MainAffixId": 2,
+      "SubAffixList": [
+        {
+          "SubAffixId": 9,
+          "Cnt": 6,
+          "Step": 12
+        },
+        {
+          "SubAffixId": 8,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 7,
+          "Cnt": 1,
+          "Step": 2
+        },
+        {
+          "SubAffixId": 6,
+          "Cnt": 1,
+          "Step": 1
+        }
+      ]
+    },
+    {
+      "Id": 63145,
+      "SetId": 314,
+      "Type": 5,
+      "Level": 15,
+      "MainAffixId": 7,
+      "SubAffixList": [
+        {
+          "SubAffixId": 9,
+          "Cnt": 3,
+          "Step": 3
+        },
+        {
+          "SubAffixId": 5,
+          "Cnt": 4,
+          "Step": 8
+        },
+        {
+          "SubAffixId": 8,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 6,
+          "Cnt": 1,
+          "Step": 1
+        }
+      ]
+    },
+    {
+      "Id": 63146,
+      "SetId": 314,
+      "Type": 6,
+      "Level": 15,
+      "MainAffixId": 4,
+      "SubAffixList": [
+        {
+          "SubAffixId": 8,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 9,
+          "Cnt": 1,
+          "Step": 0
+        },
+        {
+          "SubAffixId": 5,
+          "Cnt": 3,
+          "Step": 6
+        },
+        {
+          "SubAffixId": 6,
+          "Cnt": 4,
+          "Step": 4
+        }
+      ]
+    }
+  ]
+}
